@@ -1,0 +1,68 @@
+.warna1{
+    background-color: #432E54;
+}
+
+.warna2{
+    background-color: #4B4376;
+}
+
+.warna3{
+    background-color: #AE445A;
+}
+
+.warna4{
+    background-color: #E8BCB9;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/target_corp.jpg');
+}
+
+.no-decoration{
+    text-decoration: none;
+    color:white;
+}
+
+.no-decoration:hover{
+    color:#E8BCB9;
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-produk{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/target_corp.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.text-harga{
+    font-size: 27px;
+    color:#432E54;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner-produk{
+    height: 35vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/target_corp.jpg');
+    background-position: 50% 35%;
+}
+
+.produk-terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
